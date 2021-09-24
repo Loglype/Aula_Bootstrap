@@ -1,0 +1,39 @@
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: teal;
+}
+
+.navbar{
+    background-color:white;
+}
+
+.quem-somos{
+    background-color: goldenrod;
+    color: white;
+}
+
+.margin{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.parceiros{
+    background-color: rgb(73, 9, 116);
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+.logo{
+    margin-left: 15px;
+}
+
+.row{
+    background-color:rgb(115, 117, 113);
+    align-items: center;
+    margin-left: auto;
+}
+
+.bd-placeholder-img rounded-circle{
+    align-items: center;
+}
